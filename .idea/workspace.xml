@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7903f1fb-6104-416c-a157-d3f6413bba48" name="Changes" comment="Nouvelles instructions ajoutées." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SamuelDev06&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SamuelDev06/jeuDevinette.git&quot;,
+    &quot;accountId&quot;: &quot;7b4a73f6-f94a-4fee-8bd6-3d8a178acdf1&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EBGGxufbSTrSAsn1UkrRpMbGAj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.jeuDevinette.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="jeuDevinette" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jeuDevinette" />
+      <module name="jeuDevinette" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.jeuDevinette" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7903f1fb-6104-416c-a157-d3f6413bba48" name="Changes" comment="" />
+      <created>1779644493721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779644493721</updated>
+      <workItem from="1779644493721" duration="5595000" />
+      <workItem from="1779656331654" duration="4503000" />
+      <workItem from="1779717840208" duration="1811000" />
+      <workItem from="1779724396476" duration="2910000" />
+      <workItem from="1779824471638" duration="875000" />
+      <workItem from="1779826592233" duration="545000" />
+      <workItem from="1779830029270" duration="1010000" />
+    </task>
+    <task id="LOCAL-00001" summary="Nombre aléatoire généré.">
+      <option name="closed" value="true" />
+      <created>1779648227427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779648227427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Génération du nombre aléatoire modifié.">
+      <option name="closed" value="true" />
+      <created>1779728105446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779728105447</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nouvelles instructions ajoutées.">
+      <option name="closed" value="true" />
+      <created>1779728248535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779728248535</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nombre aléatoire généré." />
+    <MESSAGE value="Génération du nombre aléatoire modifié." />
+    <MESSAGE value="Nouvelles instructions ajoutées." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nouvelles instructions ajoutées." />
+  </component>
+</project>
